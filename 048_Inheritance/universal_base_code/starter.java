@@ -19,5 +19,7 @@ class starter {
 		System.out.println(c.name);
 		c.bark();
 		System.out.println();
+		//nothing to change, just take a look at how it is written 
+		//analyze it!
 	}
 }
