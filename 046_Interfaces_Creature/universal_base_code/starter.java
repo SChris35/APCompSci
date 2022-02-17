@@ -8,7 +8,7 @@ class starter {
 		// Your code goes below here
 		BaseClass test = new BaseClass();
 
-
+		//nothing done, just making creature class
 		
 	}
 }
