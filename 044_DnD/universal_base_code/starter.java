@@ -6,8 +6,14 @@ import java.util.Random;
 class starter {
 	public static void main(String args[]) {
 		// Your code goes below here
-		BaseClass test = new BaseClass();
+    Kermit frog = new Kermit();
+    Warrior barbarian = new Warrior();
+    Wizard hagrid = new Wizard();
 
+    barbarian.printArt();
+    System.out.println(" ");
+    hagrid.printArt();
+    
 
 		
 	}
